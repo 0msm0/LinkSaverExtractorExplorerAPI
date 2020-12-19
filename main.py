@@ -3,6 +3,9 @@ from newspaper import Article
 # import nltk
 
 # API Ref - https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask
+# Lambda 1 - https://pythonforundergradengineers.com/deploy-serverless-web-app-aws-lambda-zappa.html
+# Lambda 2 - https://towardsdatascience.com/deploy-a-python-api-on-aws-c8227b3799f0
+
 
 # summary, reading time, video duration
 # API - 1. on personal website (portfolio)
